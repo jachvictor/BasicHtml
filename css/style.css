@@ -1,0 +1,45 @@
+* {
+  background: rgb(243, 243, 243);
+}
+nav {
+  background-color: rgb(7, 1, 22);
+  height: 75px;
+  border-color: white;
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+}
+h1 {
+  text-align: center;
+}
+p {
+  color: black;
+}
+section {
+  background: rgb(3, 3, 3);
+  border-radius: 100px;
+  height: 1700px;
+  color: white;
+  font-size: xx-large;
+  border-top-color: yellow;
+}
+img {
+  float: left;
+  height: 150px;
+  width: 150px;
+  border-radius: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+h2 {
+  color: black;
+}
+h3 {
+  color: white;
+  background-color: black;
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+.sec {
+  height: 1800px;
+}
